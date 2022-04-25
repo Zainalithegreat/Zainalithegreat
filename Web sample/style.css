@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 50px;
+
+
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom:25px;
+    
+}
+
+.first{
+    color: blue
+
+    
+}
+
+#your-name{
+    background-color: rgb(94, 194, 228);
+    border: 2px solid #444;
+    width: 8%;
+    height: 40%
+}
+
+#goku{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    
+}
+h1{
+    text-align: center;
+    
+}
+p{
+    text-align: center; 
+}
+
+title{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+.qq{
+    color:rgb(94, 194, 228)
+}
+#your-name{
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    margin-top:25px ;
+    
+}
+.ww{
+    width: 60%;
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.oo{
+    border: solid  black;
+
+}
+
+.oo{
+    padding: 15px;
+    margin-top: 50px;
+    border-radius: 5px;  
+    
+}
+#your-name h3{
+    color: olive
+}
+
+.aa{
+    border: solid black;
+    text-align: center;
+    padding-top: 10px;  
+    position: fixed;  
+    bottom: 0px; 
+    left: 0px;
+    width: 10%;
+    height: 7%;
+    font-size: 12px;
+    box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
+        
+}
