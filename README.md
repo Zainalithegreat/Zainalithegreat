@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zainalithegreat
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript,html,css and wanna learn c++
+- 🌱 I’m currently learning JavaScript with the web, Python, Databases, C++, and much more.
 - 💞️ I’m looking to collaborate on projects
-- 📫 My emails is zain.ali.the.great@gmail.com
+- 📫 My email is zainsbusinessemail@gmail.com
 
 <!---
 Zainalithegreat/Zainalithegreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
